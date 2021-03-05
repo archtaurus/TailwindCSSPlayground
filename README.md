@@ -8,8 +8,7 @@ This repository is a playground for TailwindCSS. `code . & npm start` and have f
 git clone git@github.com:archtaurus/TailwindCSSPlayground.git
 cd TailwindCSSPlayground
 npm i -D
-code .
-npm start
+code . & npm start
 ```
 
 ## Build it by yourself
@@ -64,6 +63,5 @@ echo '<!DOCTYPE html>
         </div>
     </body>
 </html>' > src/index.html
-code .
-npm start
+code . & npm start
 ```
